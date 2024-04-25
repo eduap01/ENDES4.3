@@ -13,5 +13,5 @@ abstract class Animal {
 
     public abstract String getInfo();
     
-    //Esto es un cambios en Animal para ENDES
+    //Esto es un cambios en Animal para ENDES para la 4.2
 }
